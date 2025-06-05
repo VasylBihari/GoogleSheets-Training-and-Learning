@@ -5,6 +5,8 @@ https://docs.google.com/spreadsheets/d/1QZD62LjCbKs77a_tOcZs5cyYei2mPGQXY5lxh319
 2. **VARIOUS DASHBOARDS, TRICKS**
 https://docs.google.com/spreadsheets/d/1MMf8kOSWL0BwRwp53alC4ggYIlyE6nb-jIKbrhIV8qk/edit?usp=sharing
 
+3. **Project_Work-from-Anywhere-Salary-Insight**
+https://docs.google.com/spreadsheets/d/1ZOll5R7cl24bqUJ0RzPMdqhL0Om9gRPDatZJGlIEPYM/edit?usp=sharing
 
 ### 📊 Google Sheets: Projects for Training and Learning
 
