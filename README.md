@@ -8,6 +8,9 @@ https://docs.google.com/spreadsheets/d/1MMf8kOSWL0BwRwp53alC4ggYIlyE6nb-jIKbrhIV
 3. **Project_Work-from-Anywhere-Salary-Insight**
 https://docs.google.com/spreadsheets/d/1ZOll5R7cl24bqUJ0RzPMdqhL0Om9gRPDatZJGlIEPYM/edit?usp=sharing
 
+4. **Project_Bank_Churn_Customers**
+https://docs.google.com/spreadsheets/d/1naJDnQopu5NcWmKVYYdYg4hIfE12_DxDhzuTZibFxXE/edit?gid=2079650780#gid=2079650780
+
 ### 📊 Google Sheets: Projects for Training and Learning
 
 This repository contains my projects created in Google Sheets. They help me explore the capabilities of Google Sheets, formulas, functions, and automation.
