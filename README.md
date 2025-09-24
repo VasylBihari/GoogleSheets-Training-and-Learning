@@ -11,6 +11,9 @@ https://docs.google.com/spreadsheets/d/1ZOll5R7cl24bqUJ0RzPMdqhL0Om9gRPDatZJGlIE
 4. **Project_Bank_Churn_Customers**
 https://docs.google.com/spreadsheets/d/1naJDnQopu5NcWmKVYYdYg4hIfE12_DxDhzuTZibFxXE/edit?gid=2079650780#gid=2079650780
 
+5. **Attendance Tracker**
+https://docs.google.com/spreadsheets/d/1FZ45LCv3NbYEeD-q8CbLDFOCA-9IB_og6Vz1t9j2mlc/edit?usp=sharing
+
 ### 📊 Google Sheets: Projects for Training and Learning
 
 This repository contains my projects created in Google Sheets. They help me explore the capabilities of Google Sheets, formulas, functions, and automation.
